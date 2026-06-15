@@ -10,6 +10,7 @@ import ContactSection from '@/components/sections/ContactForm';
 import Footer from '@/components/sections/Footer';
 import CountdownTimer from '@/components/ui/CountdownTimer';
 import { motion } from 'framer-motion';
+import FloatingContactButtons from '@/components/ui/FloatingContactButtons';
 import { ConfigProvider, useConfig } from '@/contexts/ConfigContext';
 
 function AppContent() {
