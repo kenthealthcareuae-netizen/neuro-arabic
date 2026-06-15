@@ -66,7 +66,7 @@ function AppContent() {
         <ContactSection />
       </main>
       <Footer />
-    
+    <FloatingContactButtons />
     </div>
   );
 }
